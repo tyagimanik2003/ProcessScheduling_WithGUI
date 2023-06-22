@@ -1,7 +1,7 @@
 import tkinter as tk
 import subprocess
-import matplotlib.pyplot as plt
-from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
+#import matplotlib.pyplot as plt
+#from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 
 class SchedulerApp:
     def __init__(self, master):
